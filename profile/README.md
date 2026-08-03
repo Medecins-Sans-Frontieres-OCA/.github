@@ -59,7 +59,7 @@ For questions, onboarding, or repository management:
 
 📧 Contact **Theo Fromentin** or **Derek Loots**.
 
-The can support you for the OCA GitHub organization.
+They can support you for the OCA GitHub organization.
 
 ***
 
